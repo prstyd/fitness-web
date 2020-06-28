@@ -1,7 +1,7 @@
 # fitness-web
 Landing page fitness club
 
-Simple landing page for fitness club, create with html & css bootstrap
+Simple landing page for fitness club
 
 don't forget to follow me if you like my repo
 
